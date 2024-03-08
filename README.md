@@ -26,5 +26,6 @@ The data was fed into the tables importing corresponding csv files in the Postgr
 4. select * from campaign;
 
 The data has been correctly populated in the tables, just as in the input files.
+The screenshots of the tables have been provided in the project folder.
 
 The code has been successfully executed to meet the requirements of the project.
